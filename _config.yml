@@ -1,3 +1,6 @@
+baseurl: "jekyll_tutorial" # the subpath of your site, e.g. /blog
+url: "https://mikele11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 collections:
   authors:
     output: true
